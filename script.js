@@ -6,7 +6,7 @@ document.addEventListener('mousemove', (e) => {
 });
 
 // Typing effect for greeting
-const greetingText = "Kamu tahu nggak? Kamu itu manusia paling menggemaskan dan paling berharga yang pernah hadir di hidupku! 🤍✨";
+const greetingText = "Kamu tahu nggak? Kamu itu manusia paling menggemaskan dan paling berharga yang hadir di hidupku! 🤍✨";
 const greetingElement = document.querySelector('.greeting');
 let charIndex = 0;
 
